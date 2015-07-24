@@ -1,5 +1,0 @@
-# Do not remove this line, otherwise mod_rewrite rules will stop working
-RewriteBase /
-
-# RewriteEngine on
-# RewriteRule ^([a-zA-Z0-9]+)$ index.php?key=$1
